@@ -1,2 +1,2 @@
 # part-password-generator
-This is project about creating a Responsive Random Password Generator in HTML CSS, and JavaScript.
+This is project about creating a Responsive Random Password Generator in HTML CSS, and JavaScript. Password will contain all the characters that the strong password needs. To generate a password we just need to click on the button by clicking on the copy icon we can copy the password. And, by the range slider, we can choose the length of the password. The source code link to this password generator link is given below.
